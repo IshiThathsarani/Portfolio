@@ -39,20 +39,10 @@
 
 /* my styles */
 *{
-  font-family: sans-serif, serif,arial
+  font-family: sans-serif, serif,arial;
+  background: #f6ecde;
 }
-html {
-  height: 100%;
-  overflow: hidden;
-  width: 100vw;
-  height: 100vh;
-  overflow-y: scroll;
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
-  background: none;
-  background-color: var(--bg-color);
-  top: 150px;
-}
+
 #code{
   display: block;
   margin-left: 20%;
