@@ -38,20 +38,28 @@ function App() {
                         <circle cx="18" cy="18" r="18" fill="#78B159"></circle></svg>
                     <br/>
                 
-                <div id="details">
-                    <p>
-                    Hi :
-                    <br/>
-                    <br/>
-                    I'm Ishini Siriwardena. Currently, I am an undergraduate who is studying for a bachelor's in the field of ICT at the University of Sri Jayawardenapura.
-                   I am an enthusiastic person who is carving to learn new things and face challenges. Thank you 
-                   <br/>
-                       <p> <a href='https://thathsaranisirwardena@gmail.com '>  contact me </a> </p>
-                       <p><a href='https://www.linkedin.com/in/ishini-siriwardena/'> LinkdIn</a></p>
-                </p>
-                </div>
+                    <div id="details">
+                        <p>
+                        Hi :
+                        <br/>
+                        <br/>
+                        I'm Ishini Siriwardena. Currently, I am an undergraduate who is studying for a bachelor's in the field of ICT at the University of Sri Jayawardenapura.
+                        I am an enthusiastic person who is carving to learn new things and face challenges. Thank you 
+                      <br/>
+                          <p> <a href='https://thathsaranisirwardena@gmail.com '>  contact me </a> </p>
+                          <p><a href='https://www.linkedin.com/in/ishini-siriwardena/'> LinkdIn</a></p>
+                    </p>
+                    </div>
                 </div>                
-            </div> 
+      </div> 
+      <div id="projects">
+                <h2> Projects </h2>
+                <ul>
+                    <li> Hospital Management System</li>
+                    <li>App for the Department of ICT</li>
+                    <li>Web Site of AI using html,css and js</li>
+                </ul>
+            </div>
     </div>
     
   );

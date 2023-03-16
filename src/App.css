@@ -164,3 +164,22 @@ border-width: 0.5px;
   text-align: justify-all;
    line-height: 200%   
 }
+#projects{
+  float: left;
+  padding: 10px;
+  width:50%;
+  height: auto;
+  background-color:#ffe497;
+  font-size: 132%;
+  text-align:center;
+  line-height: 200%;
+  margin-top: 90px;
+  margin-left: 30%
+}
+  
+#projects ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+  
