@@ -10,7 +10,13 @@ function App() {
         <h1>Ishini Thathsarani Perera Siriwardena </h1>
         <p> Student </p>
       </div>
-      
+      <div class="switch">
+        <p>Dark Mode </p>
+        <label class="theme-switch" for="checkbox">
+            <input type="checkbox" id="checkbox" />
+            <div class="slider round"></div>
+        </label>
+      </div>
     
     </div>
   );
