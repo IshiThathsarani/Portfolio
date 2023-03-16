@@ -20,7 +20,7 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <img src={code}  alt="code" />
+    <img src={code}  alt="code" id="code"/>
   );
 }
 
