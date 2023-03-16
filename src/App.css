@@ -143,7 +143,24 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+#pic{
+  float: left;
+  padding: 20px;
+  width:40%;
+  border-style: hidden;
+border-width: 0.5px;
+}
 #dp{
   width: 20vw;
   padding-left: 15vw
+}
+#details{
+  float: left;
+  padding: 20px;
+  width:50%;
+  height: auto;
+  background-color:#ffe4f2;
+  font-size: 132%;
+  text-align: justify-all;
+   line-height: 200%   
 }
