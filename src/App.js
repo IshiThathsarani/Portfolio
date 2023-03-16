@@ -46,7 +46,8 @@ function App() {
                     I'm Ishini Siriwardena. Currently, I am an undergraduate who is studying for a bachelor's in the field of ICT at the University of Sri Jayawardenapura.
                    I am an enthusiastic person who is carving to learn new things and face challenges. Thank you 
                    <br/>
-                       <p> <a href='thathsaranisiriwardena@gmail.com'>  contact me </a> </p>
+                       <p> <a href='https://thathsaranisirwardena@gmail.com '>  contact me </a> </p>
+                       <p><a href='https://www.linkedin.com/in/ishini-siriwardena/'> LinkdIn</a></p>
                 </p>
                 </div>
                 </div>                
