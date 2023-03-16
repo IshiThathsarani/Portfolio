@@ -60,6 +60,11 @@ html {
   width: 20vw;
   padding-left: 20vw
 }
+h1{
+  padding-top: 0.5%;
+  font-size: 60px;
+  text-align: center
+}
 #name{
   height: 200px;
   display: block
