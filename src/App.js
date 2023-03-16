@@ -2,6 +2,7 @@
 // import React, { Component } from "react";
 // import $ from "jquery";
 import code from './Assests/code.png';
+import profilepic from './Assests/profilepic.jpg';
 import './App.css';
 
 function App() {
@@ -19,7 +20,12 @@ function App() {
             <div class="slider round"></div>
         </label>
       </div>
-    
+      <br/>
+      <div id="profile">
+          <div id="pic">
+            <img src = {profilepic} alt="profile photo" id="dp"/>
+          </div>
+      </div>
       
     </div>
     
