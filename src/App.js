@@ -4,8 +4,16 @@ import './App.css';
 
 function App() {
   return (
-    <img src={code}  alt="code" id="code"/>
+    <div>
+      <img src={code}  alt="code" id="code"/>
+    <div>
+    <div id="name">
+            <h1>Ishini Thathsarani Perera Siriwardena </h1>
+            <p> Student </p>
+        </div>
+    </div>
     
+    </div>
   );
 }
 
